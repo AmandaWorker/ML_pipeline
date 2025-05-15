@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python=3.10
   - jupyterlab=4.1.3
   - notebook=7.1.2          # Needed for classic Jupyter Notebook support
   - ipywidgets=8.1.2 
